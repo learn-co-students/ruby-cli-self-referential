@@ -1,6 +1,17 @@
 Module One Final Project
 ========================
 
+
+Self-referential relationship
+
+Build a CLI Social Media application that meets the following user stories
+
+* As a user i enter my username to "login"
+* As a user i can select an option to see a list of all the users in the database
+* As a user i can choose to add a user as a "friend"
+  * It's up to you whether "friending" someone is mutual like facebook (If I'm your friend then you are my friend), or more like instagram (I can follow you, but you don't need to be following me )
+* As a user I can select an option to see a list of all of my friends/followers/following
+
 Congratulations, you're at the end of module one! You've worked crazy hard to get here and have learned a ton.
 
 For your final project, you'll be building a Command Line Application.
